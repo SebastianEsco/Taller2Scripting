@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.sourcelink.json
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\bin\Debug\net8.0\punto4Taller2.exe
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\bin\Debug\net8.0\punto4Taller2.deps.json
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\bin\Debug\net8.0\punto4Taller2.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\bin\Debug\net8.0\punto4Taller2.dll
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\bin\Debug\net8.0\punto4Taller2.pdb
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.dll
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\refint\punto4Taller2.dll
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.pdb
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\punto4Taller2.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\scripting\Taller2Scripting\punto4Taller2\punto4Taller2\obj\Debug\net8.0\ref\punto4Taller2.dll
