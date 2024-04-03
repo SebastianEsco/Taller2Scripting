@@ -15,11 +15,6 @@ namespace ExplicarSingleton
             }
             return _instance;
         }
-
-        public void someBusinessLogic()
-        {
-            // ...
-        }
     }
 
     class Program
@@ -31,11 +26,15 @@ namespace ExplicarSingleton
 
             if (s1 == s2)
             {
-                Console.WriteLine("Singleton funcionó, ambas variables contienen la misma instancia");
+                Console.WriteLine(
+                    "Singleton funcionó, ambas variables" +
+                    " contienen la misma instancia");
             }
             else
             {
-                Console.WriteLine("Singleton falló, las variables contienen diferentes instancias");
+                Console.WriteLine(
+                    "Singleton falló, las variables" +
+                    " contienen diferentes instancias");
             }
         }
     }
