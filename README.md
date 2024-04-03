@@ -22,14 +22,17 @@
 ## Progreso:
 * 1: TERMINADO.
 * 2: AVANZADO.
-* 3:
-* 4: EN PROGRESO -- 
-* 5: 
-* 6:
-* 7:
-* 8:
+* 3: FALTA.
+* 4: EN PROGRESO -- Faltan codigos.
+* 5: FALTA.
+* 6: EN PROGRESO -- Falta explicación.
+* 7: EN PROGRESO -- Actualizandose.
+* 8: TERMINADO.
 
-=======
+-------
+-------
+# Soluciones:
+----
 
 ## Punto 1
 * Santiago Cardenas, Sebastián Escobar y Carlos Santaella
