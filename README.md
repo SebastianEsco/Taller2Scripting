@@ -19,15 +19,15 @@
 
 -------------------
 
-##Punto 1
+## Punto 1
 * Santiago Cardenas, Sebastián Escobar y Carlos Santaella
   
-##Punto 2
-##Punto 3
-##Punto 4
-##Punto 5
-##Punto 6
-##Punto 7
-##Punto 8
+## Punto 2
+## Punto 3
+## Punto 4
+## Punto 5
+## Punto 6
+## Punto 7
+## Punto 8
 
 
