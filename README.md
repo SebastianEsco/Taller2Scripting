@@ -18,3 +18,13 @@
 * 8. Usar un repositorio para los ejercicios, mínimo 30 commits, **todos deben participar.**
 
 -------------------
+-------------------
+## Progreso:
+* 1: TERMINADO.
+* 2: AVANZADO.
+* 3:
+* 4: EN PROGRESO -- 
+* 5: 
+* 6:
+* 7:
+* 8:
