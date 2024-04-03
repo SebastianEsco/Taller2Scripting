@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\bin\Debug\net6.0\Talller2Scripting.exe
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\bin\Debug\net6.0\Talller2Scripting.deps.json
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\bin\Debug\net6.0\Talller2Scripting.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\bin\Debug\net6.0\Talller2Scripting.dll
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\bin\Debug\net6.0\Talller2Scripting.pdb
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.dll
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\refint\Talller2Scripting.dll
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.pdb
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\Talller2Scripting.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Personal\Universidad\5to\Scripting\Taller2\Taller2Scripting\Talller2Scripting\Talller2Scripting\obj\Debug\net6.0\ref\Talller2Scripting.dll
