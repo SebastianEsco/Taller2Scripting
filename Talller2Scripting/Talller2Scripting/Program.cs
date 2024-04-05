@@ -5,7 +5,7 @@
         delegate float DelegadoCalculadora(float x, float y);
         static void Main(string[] args)
         {
-            DelegadoCalculadora delegadoSuma = Sumar;
+            DelegadoCalculadora delegadoSuma = Sumar; //Incializar y asignación
             DelegadoCalculadora delegadoResta = Restar;
             DelegadoCalculadora delegadoMultiplicacion = Multiplicar;
             DelegadoCalculadora delegadoDivision = Dividir;
@@ -16,6 +16,28 @@
             Operacion(3, 2, delegadoMultiplicacion);
             Operacion(3, 2, delegadoDivision);
             Operacion(3, 2, delegadoPotencia);
+
+
+            //-----------------------------------------//
+
+            DelegadoCalculadora delegadoCalculadora;
+            delegadoCalculadora = Sumar;
+            delegadoCalculadora += Restar;
+            delegadoCalculadora += Multiplicar;
+            delegadoCalculadora += Dividir;
+            delegadoCalculadora += Elevar;
+
+            float x = 3;
+            x += delegadoCalculadora(3, 2);
+
+            Console.WriteLine("X es igual a: " + x);
+
+
+            delegadoCalculadora.Invoke(3, 4);
+
+
+            Operacion(3, 2, delegadoCalculadora);
+
         }
 
         static void Operacion(float a, float b, DelegadoCalculadora delegado)
@@ -26,7 +48,7 @@
         static float Sumar(float a, float b)
         {
             return a + b;
-        }
+        } 
 
         static float Restar(float a, float b)
         {
