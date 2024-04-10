@@ -23,7 +23,7 @@
 * 1: TERMINADO.
 * 2: AVANZADO.
 * 3: EN PROGRESO
-* 4: EN PROGRESO -- Faltan codigos.
+* 4: TERMINADO.
 * 5: TERMINADO.
 * 6: EN PROGRESO -- Falta explicación.
 * 7: EN PROGRESO -- Actualizandose.
