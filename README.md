@@ -25,7 +25,7 @@
 * 3: EN PROGRESO
 * 4: TERMINADO.
 * 5: TERMINADO.
-* 6: EN PROGRESO -- Falta explicación.
+* 6: TERMINADO.
 * 7: EN PROGRESO -- Actualizandose.
 * 8: TERMINADO.
 
