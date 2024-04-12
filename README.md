@@ -42,6 +42,21 @@
 ## Punto 4
 ## Punto 5
 ## Punto 6
+## Initialization ---> Loop (Pyshics,Inputs, Game Logic y Renderings) ---> End of Frame ---> Decommissioning
+------
+Inicialización:
+* Awake: Lo primero que se llama y sólo una vez. Cumple como función revisar antes de que inicie el juego algún error en el script. Se ejecuta aunque el script no se esté usando.
+* OnEnable: Sólo ocurre cuando está activo el script. Puede ocurrir en cualquier momento.
+* Start: Se activa en el frame que se habilita el script después del awake. Permite accesar las diferentes variables inicializadas y otros scripts.
+------
+Loop:
+* Physics: FixedUpdate. Animaciones. Se calculan Triggers y Colisiones
+* Inputs: OnMouses. Interactividad del usuario
+* Game Logics: Update (cada frame). Yields (esperar unos segundos). Animaciones. LateUpdate
+* Rendering: Renderización de la escena. Renderizado Gizmo. Renderizado de UI
+------
+Decommissioning:
+* Se ejecutan: OnApplicationQuit, OnDisable y OnDestroy.
 ## Punto 7
 * https://www.canva.com/design/DAGBXwTWHBg/yj-uU-1sESsvK8nsUQJu4w/edit?utm_content=DAGBXwTWHBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Punto 8
