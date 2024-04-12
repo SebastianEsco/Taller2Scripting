@@ -38,10 +38,15 @@
 * Santiago Cardenas, Sebastián Escobar y Carlos Santaella
   
 ## Punto 2
+* Pantallazos en Canva, archivo de visual estudio dentro del repositorio.
 ## Punto 3
+* La información está adjunta en la presentación.
 ## Punto 4
+* La información está adjunta en la presentación.
 ## Punto 5
+* La información está adjunta en la presentación.
 ## Punto 6
+* La información también está adjunta en la presentación.
 ## Initialization ---> Loop (Pyshics,Inputs, Game Logic y Renderings) ---> End of Frame ---> Decommissioning
 ------
 Inicialización:
