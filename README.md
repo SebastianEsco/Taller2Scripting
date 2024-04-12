@@ -21,7 +21,7 @@
 -------------------
 ## Progreso:
 * 1: TERMINADO.
-* 2: AVANZADO.
+* 2: TERMINADO.
 * 3: TERMINADO.
 * 4: TERMINADO.
 * 5: TERMINADO.
